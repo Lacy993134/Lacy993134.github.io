@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Mogra|Unkempt');
+body {
+    background-color: white;
+    text-align: center;
+	
+	
+}
+
+h1 {
+    font-family: 'Mogra', cursive; 
+    color: #127CA9;
+    font-size: 45px;
+}
+
+h2 {
+	font-family: 'Unkempt', cursive;
+	color: #7A3787;
+	font-size: 30px;
+
+}
+table {
+	text-align: center;
+	font-family: 'Unkempt', cursive;
+	color: #7A3787;
+	font-size: 20px;
+}
+
+
+td
+{
+	padding:10px;
+}
